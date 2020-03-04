@@ -1,0 +1,19 @@
+p {
+    font-size: 30px;
+    font-family: "Courier New";
+    font-weight: bold;
+    color: #4A159B;
+    text-align: right;
+}
+body {
+        background-color: aquamarine;
+}
+main {
+    background-color: bisque;
+}
+header{
+    background-color: blueviolet;
+}
+footer{
+    background-color: brown;
+}
